@@ -1,4 +1,4 @@
 package adt;
 
-public class LinkedListADT {
+public class LinkedListADT<E> {
 }
